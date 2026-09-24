@@ -1,0 +1,10 @@
+import Project.Dilatation.lemma
+import Project.Dilatation.Family
+import Project.ForMathlib.Ideal
+import Project.Dilatation.Multicenter
+import Project.ForMathlib.CubeIdentity
+import Project.ForMathlib.AlgEquivRestrictScalars
+import Project.ForMathlib.Flat
+import PreClosAndClos
+namespace DilatationsOfSchemes
+end DilatationsOfSchemes

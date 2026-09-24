@@ -1,0 +1,12 @@
+.lake/
+build/
+*.olean
+.DS_Store
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.blg
+*.bbl
